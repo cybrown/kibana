@@ -2,6 +2,8 @@
 /src/fixtures/vislib/mock_data
 /src/ui/public/angular-bootstrap
 /src/ui/public/flot-charts
+/src/ui/public/kuery/ast/kuery.js
+/src/ui/public/kuery/ast/legacy_kuery.js
 /test/fixtures/scenarios
 /src/core_plugins/console/public/webpackShims
 /src/core_plugins/console/public/tests/webpackShims
@@ -15,6 +17,5 @@
 /packages/eslint-plugin-kibana-custom
 /packages/kbn-pm/dist
 /packages/kbn-pm/vendor
-/packages/kbn-pm/**/fixtures
 /packages/kbn-plugin-generator/sao_template/template
 !/.eslintrc.js
